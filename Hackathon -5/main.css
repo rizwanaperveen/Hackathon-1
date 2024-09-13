@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2px;
+}
+#resume-form, input{
+    margin: 2px;
+    padding: 2px;
+    width: 550px;
+    height: 20px;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: antiquewhite;
+    height: 30px;
+    width: 90px;
+    border-radius: 6px;
+    border: 2px solid black;
+}
+#resume-form{
+    background-color: bisque;
+    width: 600px;
+    align-items: center;
+    margin-top: 50px;
+    height: 850px;
+    border-radius: 30px;
+}
+fieldset{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+label{
+    margin: 5px;
+    padding: 5px;
+    display: block;
+    border-radius: 10px;
+}
+
+#resume-Output{
+    background: rgb(196, 188, 189);
+    color: black;
+    margin-top: 2px;
+    width: 400px;
+    height: 500px;
+    padding: 3px;
+    border: 2px solid black;
+}
+#resume-Output h2 {
+    color: slateblue;
+}
